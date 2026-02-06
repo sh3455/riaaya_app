@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095322210464",
+    "project_id": "riaaya-b06ce",
+    "storage_bucket": "riaaya-b06ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095322210464:android:7e170fff53f161b458f9c5",
+        "android_client_info": {
+          "package_name": "com.example.riaaya_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqiH-YwlOPgadgwTCS_UDqpNwTb1zmUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
